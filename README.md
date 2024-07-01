@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app that servers "Congratulations your Deployment was successful"
 
 Great for testing simple deployments on Cloud
 
